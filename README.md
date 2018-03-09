@@ -10,3 +10,7 @@ For Windows - [rustup-init.exe](https://www.rust-lang.org/en-US/install.html)
 ```bash
 rustc --version
 ```
+
+## Package
+
++ cargo package - [crate](https://crates.io/)
